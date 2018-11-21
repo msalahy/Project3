@@ -1,0 +1,219 @@
+/* START map css */
+
+#mapssection1 {
+  float: left;
+  width: auto;
+  margin: 0 2% 0 2%;
+}
+
+#test_script{
+    margin: 0;
+    padding: 0;
+    display: block;
+    height: 50%;
+    width: 50%;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+    background-color: #48CA73;
+    margin:0 auto;
+    overflow: hidden;
+}
+#map img {
+  max-width: none!important; max-height: none!important
+}
+
+#canvas {
+    width: auto;
+    height: 30em;
+    background-color: #ccc;
+    margin: 1em 1em 1em 1em;
+}/* END map css */
+
+.body1 {
+  line-height: 1;
+  background-image: url("../pictures/nature.jpg");
+  line-height: 1;
+  padding: 20px;
+  margin: 20px;
+}
+.body2
+{
+  line-height: 1;
+  background-color: #cccccc;
+  line-height: 1;
+  background-repeat: no-repeat, repeat;
+  padding: 20px;
+  margin: 20px;
+}
+.body3
+{
+  line-height: 1;
+  background-color: #cccccc;
+  line-height: 1;
+  background-repeat: no-repeat, repeat;
+  padding: 20px;
+  margin: 20px;
+}
+.menu
+{
+  height:50px;
+  width: 100%;
+  font-size: 3em;
+  background-color: #ff533d;
+  object-position: center;
+}
+.menu a
+{ 
+  display: block;
+  color: black; 
+  text-align: center; 
+  align-content:center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+.menu a:hover
+{
+  background-color: yellow;
+}
+.menu ul
+{
+  margin:0;
+  text-align:center;
+}
+.menu li
+{
+  display: inline-block;
+  color: red;
+
+}
+.title
+{
+  text-align: center;
+  margin-top:80px;
+  margin-bottom: 50px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 60px; 
+  font-weight: bold;
+}
+.s_title
+{
+  font-weight: bolder;
+  text-align: left;
+  margin-top:20px;
+  margin-bottom:40px;
+  font-family:'Indie Flower', cursive;
+  font-size: 40px;
+  color: black;
+}
+.block1 img
+{
+  float: right;
+  width:300px;
+  height:250px;
+  margin-left:15px;
+}
+.block1
+{
+  width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  border: 10px dotted white;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  color: blue;
+  float: right;
+}
+.block2 img
+{
+  float: left;
+  width:300px;
+  height:250px;
+  margin-left:15px;
+}
+.block2
+{
+  width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  border: 10px dotted white;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  text-align: left;
+  float: right;
+  color: blue;
+}
+.block3 img 
+{
+  float: right;
+  width:300px;
+  height:250px;
+  margin-left:15px;
+}
+.block3 .pic222 
+{
+  float: left;
+  width:300px;
+  height:250px;
+  margin-left:15px;
+}
+.block3
+{
+  width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  border: 10px dotted white;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  text-align: left;
+  float: left;
+  color: blue;
+}
+.block4 img 
+{
+  float: right;
+  width:300px;
+  height:250px;
+  margin-left:15px;
+}
+.block4
+{
+  width: 90%;
+  margin: 20px 20px 20px 20px;
+  padding: 20px;
+  border: 10px dotted white;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  color: blue;
+  float: right;
+}
+.video 
+{
+  float: right;
+  width:300px;
+  height:250px;
+  margin-left:15px;
+}
+.res_title
+{
+  font-weight: bold;
+  text-align: left;
+  color: black;
+}
+.resume1
+{
+  background-color: rgb(255, 255, 128);
+}
+.fa
+{
+  background-color: #9a4b43;
+  color: #Eac67a;
+  font-size: .85em;
+  text-align: center;
+  padding: 5px;
+  border-top: 1px solid #ff533d;
+}
